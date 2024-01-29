@@ -1,11 +1,11 @@
-/* Todo.css */
+
 .container {
   max-width: 400px;
   margin: 0 auto;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  background-color: #f9f9f9;
+  background-color: #bd2130;
   font-family: Arial, sans-serif;
 }
 
@@ -56,6 +56,7 @@ span {
 button.delete {
   background-color: #dc3545;
   margin-left: 10px;
+  color: #0056b3;
 }
 
 button.delete:hover {
